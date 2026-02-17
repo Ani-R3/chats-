@@ -1,0 +1,181 @@
+Date: 01-02-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to FIRE_HYDRANT for HD_05_LINE_PRESSURE (2.0 <= 5 Bar).
+
+* Called PP-20 for NITRATOR_5_OUT_TEMP and NITRATOR_6_OUT_TEMP (83 C >= 80 C).
+
+* PP-16 plant is in shutdown due to no production plan.
+
+Please let me know if any further actions are required.
+Date: 02-02-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to PP-08 for BRINE_TANK_TEMP (2.7 C >= 1 C); due to two power cuts.
+
+* Visited 12 TPH Boiler to understand its structure and working.
+
+* SN-01 Line 02 is shutdown due to maintenance activity.
+
+Please let me know if any further actions are required.
+Date: 04-02-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to RCGB-02 for C1_REACTOR_LEVEL (111% >= 98%).
+
+* Mail sent to PP-08 for BRINE_TANK_TEMP (2 C >= 1 C).
+
+* Call alert given to PP-08 for nitrator temperatures being high; plant is under maintenance.
+
+* OEE Dashboard fill:
+ - SN-01
+
+Please let me know if any further actions are required.
+Date: 05-02-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to PP-08 for BRINE_TANK_TEMP (1.2 C >= 1 C).
+
+* Visited PP-04 for logsheet filling.
+
+* Visited SN-01 for providing user ID and password of the PTC platform.
+
+* Call alert given to GB-02 for SKID_TEMPERATURE_3 (100 C >= 80 C) and
+  SKID_TEMPERATURE_4 (100 C >= 80 C).
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+Date: 06-02-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to PP-08 for BRINE_TANK_TEMP fluctuation; due to top-up activity.
+
+* Call alert given to GB-02 for SKID_TEMPERATURE_3 and SKID_TEMPERATURE_4; threshold changes required and informed Jay Sir.
+
+* Call alert given to COB for AN_MELT_UPLOADING_1_TEMP_HH.
+
+* OEE Dashboard fill:
+ - SN-01
+
+Please let me know if any further actions are required.
+Date: 08-02-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to PP-08 for BRINE_TANK_TEMP (1.2 C >= 1C).
+
+* SN-01 and PP-21 alarms ignored; plants are in preventive maintenance.
+
+* OEE Dashboard fill:
+ - PP-16
+
+Please let me know if any further actions are required.
+Date: 11-02-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to PP-08 for BRINE_TANK_TEMP (1.2 C >= 1 C); due to multiple power cuts.
+
+* Prepared fluctuation count report of level sensors for RXD RCGB plant.
+
+* OEE Dashboard fill:
+ - PP-16
+
+Please let me know if any further actions are required.
+Date: 12-02-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to GB-02 for BLO_TANK_TEMPERATURE_1 (166 C >= 65 C); false alert.
+
+* Mail sent to RCGB-03 for C1_REACTOR_LEVEL (111.9% >= 95%).
+
+* Visited all slurry and emulsion plants for collecting weighing machine serial numbers and model details.
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+Date: 13-02-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to CBH-04 compressor for ELEMENT_OUTLET_TEMPERATURE (113 C >= 110 C).
+
+* Call alert given to PP-20 compressor for ELEMENT_OUTLET_TEMPERATURE (113 C >= 110 C).
+
+* Visited all TNT and PETN plants for collecting weighing machine serial numbers and model details.
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+Date: 16-02-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to RCGB-03 for C1_REACTOR_LEVEL (111% >= 98%).
+
+* Call alert given to GB-02 for SKID_TEMPERATURE_3 and SKID_TEMPERATURE_4 fluctuations.
+
+Please let me know if any further actions are required.
