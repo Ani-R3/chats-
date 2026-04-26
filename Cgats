@@ -1,0 +1,37 @@
+DSA
+Practice Problems
+C
+C++
+Java
+Python
+JavaScript
+Data Science
+Machine Learning
+Courses
+search icon
+TCS Digital Interview Questions
+Last Updated : 25 Sep, 2024
+After the Online National Qualifier Test for TCS Digital, interviews were conducted on TCS premises. My interview went roughly till 75 mins. When I introduced myself, they said that I should mention something that I have not mentioned in my CV. They asked for my favorite subjects and also about the subjects which I would learn in the current semester and then the actual interview started. The Digital Interview is a combination of three rounds (all of them conducted at the same time):
+
+1.Technical:
+
+You will be tested upon every technical skill set which you have mentioned in your CV
+. So make sure you mention only those languages and skills which you are actually thorough with. Technical 
+interview covered a wide range of topics like Object Oriented Programming, Data Structures, Java, C, C++ etc The following 
+questions were asked to me in the technical round: 1) In simple terms, explain what is Blockchain Technology. 2) Is Bitcoin a part of
+Blockchain or vice versa? 3) What is AI, ML and Deep Learning? 4) What is Big Data Analytics? 5) Explain Exception Handling with an example. 6) What is the use of "finally" block in exception handling? 7) Explain the pillars of object oriented programming namely abstraction, encapsulation, polymorphism and inheritance.
+8) Explain Overloading and Overriding. 9) What is Final? 10) Difference between JDK and JRE. 11) What is JVM? 12) Name various data types in Java. 13) Why multiple inheritance is not there in Java? 14) Why pointers are not there in Java? 
+15) What is Static variable and method in Java? 16) Can you overload the main method? 17) What kind of errors are there in Java? 18) What are the advantages of Java? 19) Name some errors and exceptions? 20) What is the super class of Exception? 21) What is the super class of Throwable? 22) What are ACID properties? 23) What are transactions in databases? 
+24) What is linked list? 25) Detection and removal of a loop in linked list. 26) Difference between call by value and call by reference. 27) Why do we use R? 28) How can we use R to predict something? 29) What are the advantages of R? 30) What happens after you enter the URL of a website? 31) What is Dynamic programming? 32) Explain the difference between Drop, Truncate and Delete.
+33) What is Normalization? 34) Difference between Having and Where Clause. 35) Write a query to get the 3rd largest salary from a table. 36) Write queries to declare the primary key and foreign key for some table. (Syntax) 37) Problems based on the usage of increment and decrement operators.
+
+38) Swap two variables without using the third one. 39) Swap two variables without using the third one and without using the arithematic operators. 40) Describe your projects.
+Note that they asked questions on R and Java, because I mentioned these languages under the "Skills" section in my CV.
+
+2) Managerial:
+
+In this round, they try to test your perspective on technology and your knowledge about various tech giants out there. You are at least expected to know about various new technologies and how companies like Google, Facebook etc are using them for their advantage. 1) How do you think facebook manages its data? 2) When you search something on Google, In what way it ranks it results? 3) If advertisements play some part in these results then how do you differ between advertised product and Google's search results? 4) How Big Data is stored and managed in organizations?
+
+3) HR:
+
+The HR round was very casual as compared to other rounds. They are just trying to get to know more about yourself. They asked questions related to my hobbies. Also to end with, they asked some puzzles which were: 1) There is a 5L jar and a 3L Jar and an another jar is given to you(without dimensions) and infinite supply of water is there, how you will collect 4 litres in the dimensionless jar? You cannot throw water outside. 2) There are 3 bulbs in one room and the 3 switches are in another room, how you will find which switch is for which bulb? You can go to the room where bulbs are present only once. It was a good experience. Final Verdict: Selected Hope this helps. Thank You and All the Best!
