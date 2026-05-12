@@ -393,3 +393,491 @@ Today's Activities
 
 Please let me know if any further actions are required.
 
+[03/04, 20:30] Aniket: Date: 02-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to DC plant for TOP_TEMP_OF_NBA_COLUMN (102 C >= 100 C).
+
+* Call alert given to RCGB-03 for C3_REACTOR_LEVEL (111% >= 98%).
+
+Please let me know if any further actions are required.
+[04/04, 07:15] Aniket: Date: 03-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to RCGB-02 for C1_REACTOR_LEVEL (100% >= 98%).
+
+* Call alert given to TNT PP-21 for NITRATOR_2_OUT_TEMP (53 C >= 52 C).
+
+Please let me know if any further actions are required.
+[05/04, 16:09] Aniket: Date: 05-04-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Called emulsion slurry plants to confirm running status.
+
+* PP-05 data was stuck; informed Ayush Sir.
+
+* PP-01 and PP-03 plants are stopped due to no production plan.
+
+Please let me know if any further actions are required.
+[07/04, 06:32] Aniket: Date: 06-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Visited PP-16 to understand the overall about plant. 
+
+* Call alert given to FIRE_HYDRANT for low pressure in fire hydrant lines.
+
+* Call alert given to DC plant for DC_TEMP_OF_NBA_COLUMN (102 C >= 100 C).
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+[08/04, 00:13] Aniket: Date: 07-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Called multiple plants for logsheet-related information and requirements.
+
+* Call alert given to HMX PP-06 for EVAPORATOR_PRESSURE (2.33 bar >= 2.22 bar).
+
+* OEE Dashboard fill:
+ - SN-01
+ - PP-16
+
+Please let me know if any further actions are required.
+[09/04, 06:41] Aniket: Date: 08-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Visited TNT PP-21 control room for weighing machine observations.
+
+* Call alert given to FIRE_HYDRANT for HD_05 line pressure (2.4 bar <= 3 bar); due to plant water consumption.
+
+* Compressor data was stuck; informed the development team.
+
+Please let me know if any further actions are required.
+[09/04, 23:42] Aniket: Date: 09-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to CBH-03 for MELTING_POT_3_TEMP (99 C >= 97 C).
+
+* Called PD-07 and PD-08 for knowing plant running status and process.
+
+* OEE Dashboard fill:
+ - PP-16
+
+Please let me know if any further actions are required.
+[10/04, 23:32] Aniket: Date: 10-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Visited PP-16 regarding OEE login issue.
+
+* Visited SN-01 for logsheet filling.
+
+* Guided DF-03 plant Manish Sir in resetting the password of digital logsheet.
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+[13/04, 06:36] Aniket: Date: 12-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to CPH-04 compressor for ELEMENT_OUTLET_TEMPERATURE (111 C >= 110 C).
+
+* DF-01, DF-02, DF-03 and SN-01 alarms ignored; plants are under maintenance.
+
+Please let me know if any further actions are required.
+[15/04, 10:29] Aniket: Date: 14-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to CBH-03 for MELTING_POT_3_TEMP (100 C >= 96 C).
+
+* Call alert given to DC plant for DC_TEMP_OF_NBA_COLUMN (102 C >= 100 C).
+
+Please let me know if any further actions are required.
+[16/04, 07:36] Aniket: Date: 15-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to 20 TPH for FURNACE_DRAFT_HH (12.7 mmWC >= 10 mmWC).
+
+* Call alert given to HMX-GB for STEAM_LINE_PRESSURE (2.1 bar >= 2 bar).
+
+* Called DF plants and SN-01 for logsheet filling.
+
+Please let me know if any further actions are required.
+[17/04, 06:34] Aniket: Date: 16-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to CPH-04 compressor for ELEMENT_OUTLET_TEMPERATURE (112 C >= 110 C).
+
+* Call alert given to CBH-06 for MELTING_POT_1_TEMP (94 C >= 92 C).
+
+* Called DF-01 and DF-02 plants regarding digital logsheet.
+
+Please let me know if any further actions are required.
+[18/04, 06:35] Aniket: Date: 17-04-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to DISTILLATION plant for TIC_DIC_HAC_FEED_INLET (102 C >= 100 C).
+
+* Mail sent to CBH-06 for MELTING_VESSEL_01 (99 C >= 92 C).
+
+* Call alert given to CBH-03 for MELTING_POT_1_TEMP (96 C >= 98 C).
+
+Please let me know if any further actions are required.
+[19/04, 15:07] Aniket: Date: 19-04-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to SMO COM-01 for ELEMENT_OUTLET_TEMPERATURE (114 C >= 110 C).
+
+* Call alert given to HMX-06 for EVAPORATOR_PRESSURE.
+
+* Call alert given to PP-25 compressor for ELEMENT_OUTLET_TEMPERATURE (111 C >= 110 C).
+
+* DF plants, PP-08 and SN-01 alarms ignored; plants are under maintenance.
+
+* Call alert given to FIRE_HYDRANT for low pressure in fire hydrant line; trials are ongoing.
+
+* OEE Dashboard fill:
+ - PP-16
+
+Please let me know if any further actions are required.
+[20/04, 19:27] Aniket: Date: 20-04-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to 12 TPH for STEAM_FLOW; showing open value.
+
+* Visited CBH shift in-charge room for cast booster box placement on weighing machine.
+
+* Filled digital logsheet Gantt chart.
+
+* Informed jay sir about the stuck data of plants on the dashboard.
+
+Please let me know if any further actions are required.
+[21/04, 17:51] Aniket: Date: 21-04-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Visited all emulsion plants for digital logsheet requirements and user ID/password reset.
+
+* Call alert given to SN-01 for fluctuations in VCT_TANK_TEMP.
+
+* Mail sent to CBH-06 for MIXING_POT_1_TEMP (97 C >= 92 C).
+
+Please let me know if any further actions are required.
+[24/04, 08:52] Aniket: Date: 23-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Visited PP-08 and PP-10 for gathering digital logsheet requirements.
+
+* Created supervisor and shift in-charge user IDs for the digital logsheet and provided them to users.
+
+* Call alert given to CBH-06 for MIXING_POT_1_TEMP (95 C >= 92 C).
+
+* Call alert given to CPH-04 compressor for ELEMENT_OUTLET_TEMPERATURE (112 C >= 110 C).
+
+Please let me know if any further actions are required.
+[26/04, 15:20] Aniket: Date: 26-04-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Called TNT plant for confirmation of running status.
+
+* TNT-21 weight data was stuck; informed Aayush Sir.
+
+* Mail sent to CPH-04 compressor for emergency stop.
+
+* Guided DF plant Tyagi Sir in resetting the digital logsheet password.
+
+Please let me know if any further actions are required.
+[29/04, 08:28] Aniket: Date: 28-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to PP-19 for NITRATOR_TEMP (98 C >= 89 C).
+
+* Visited PP-11 and PP-09 for providing digital logsheet training and password assistance.
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+[29/04, 23:38] Aniket: Date: 29-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Mail sent to PP-14 COM-2 for ELEMENT_OUTLET_TEMPERATURE (118 C >= 110 C).
+
+* Mail sent to PP-15 COM-3 for emergency stop.
+
+* Visited PP-04, PP-05 and PP-03 for digital logsheet filling assistance.
+
+* UI changes for PP-14 COM-2 compressor notified to the development team.
+
+* PP-05 data was stuck; informed Jay Sir.
+
+* Weighing machine data was stuck; informed the development team.
+
+* OEE Dashboard fill:
+ - PP-16
+ - SN-01
+
+Please let me know if any further actions are required.
+[01/05, 00:39] Aniket: Date: 30-04-2026
+Subject: Activities Report SHIFT B
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to RCGB-05 compressor for ELEMENT_OUTLET_TEMPERATURE.
+
+* Compressor data flow was stuck; informed Jay Sir.
+
+* Prepared RCGB-03 reactor level report for high values.
+
+* Visited PP-03 and PP-05 regarding digital logsheet.
+
+* OEE Dashboard fill:
+ - SN-01
+
+Please let me know if any further actions are required.
+[04/05, 06:36] Aniket: Date: 03-05-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to CBH-06 for MELTING_POT_1_TEMP (93 C >= 92 C).
+
+* Call alert given to RCGB-05 compressor for ELEMENT_OUTLET_TEMPERATURE (112 C >= 110 C).
+
+* Visited PP-16 to provide digital logsheet user ID and password to Sahu Sir.
+
+* DF-01, DF-02 and DF-03 alarms ignored; plants are under maintenance.
+
+* SN-01 data is not coming; informed Jay Sir.
+
+Please let me know if any further actions are required.
+[05/05, 06:39] Aniket: Date: 04-05-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* PP-14 and DC plant data was stuck; informed colleague.
+
+* Call alert given to CBH-06 for MELTING_POT_1_TEMP (93 C >= 92 C).
+
+* Called PP-09, PP-04 and PP-12 for digital logsheet filling.
+
+Please let me know if any further actions are required.
+[06/05, 06:35] Aniket: Date: 05-05-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to RCGB-03 for C3_REACTOR_LEVEL (110% >= 98%).
+
+* Visited PP-05 for digital logsheet filling.
+
+* Called DF plants for digital logsheet filling.
+
+Please let me know if any further actions are required.
+[07/05, 06:32] Aniket: Date: 06-05-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to CBH-06 for MELTING_POT_1_TEMP (93 C >= 92 C).
+
+* Call alert given to RCGB-03 for C3_REACTOR_LEVEL.
+
+* Called PP-21 regarding improper tare weight; informed them about the issue.
+
+Please let me know if any further actions are required.
+[08/05, 06:56] Aniket: Date: 07-05-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to CBH-06 for MELTING_POT_1_TEMP (98 C >= 92 C).
+
+* Visited shift in-charge room for IIoT platform login issue.
+
+* Provided PP-01 OB_LINE_PRESSURE data to the shift in-charge as required.
+
+* Compressor flow data was stuck; informed Jay Sir.
+
+Please let me know if any further actions are required.
+[09/05, 08:25] Aniket: Date: 09-05-2026
+Subject: Activities Report SHIFT C
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to 12 TPH boiler for DRUM_PRESSURE (8.7 bar >= 8.6 bar).
+
+* Call alert given to RCGB-02 for C1_REACTOR_LEVEL (99% >= 98%).
+
+Please let me know if any further actions are required.
+[10/05, 15:13] Aniket: Date: 10-05-2026
+Subject: Activities Report SHIFT A
+
+Respected Sir,
+
+Today's Activities
+
+* Daily threshold violation check.
+
+* Call alert given to PP-26 compressor for ELEMENT_OUTLET_TEMPERATURE (112 C >= 110 C).
+
+* Call alert given to PP-20 compressor for ELEMENT_OUTLET_TEMPERATURE (112 C >= 110 C).
+
+* Visited PP-09 and PP-12 for logsheet filling.
+
+* DF plants and PP-08 alarms ignored; plants are under maintenance.
+
+Please let me know if any further actions are required.
+
